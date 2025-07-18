@@ -1,9 +1,5 @@
 package es.cic.curso25.proy005.controller;
 
-import java.security.SecureRandom;
-import java.text.ParseException;
-import java.util.Random;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
